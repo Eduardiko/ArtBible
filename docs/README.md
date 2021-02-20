@@ -15,7 +15,7 @@ Art bibles serve two main functions inside a project:
   - Maintain consistency through all the production process
   - Keep cohesion between all the members
 
-![graph1](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph1.png)
+![graph1](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph1.png?raw=true)
 
 However, it should not be used as the only tool given to artists to produce the game's art, but rather a quick reference guide used to show the main ideas and concepts artists should use to produce art; and the layout of more technical details such as camera placement or UI.
 
