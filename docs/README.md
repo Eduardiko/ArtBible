@@ -1,5 +1,5 @@
-# What are they?
-Art Bibles are one of the many game design documents
+# Introduction: What are they?
+The Art Bible are one of the many game design documents useful for game designers to convey and communicate their ideas to the members of the team. It's a tool used as a reference document or guide created on the early phases of a project by the art director, the one who knows the details of what the game is going to look and feel from an artistic point of view and has a clear vision of the game's visuals.
 # References
 1.  Nacke, L. (13/01/15) Communication and Game Design. Retreived from https://www.gamecareerguide.com/features/1376/communication_and_game_design_documents.php
 2.  Telang, K. (19/02/14) NGDC 2013: Game Art Bible -- The secret sauce to making great Game Art. NASSCOM Game Developers Conference, India. Retrieved from various URLs:
