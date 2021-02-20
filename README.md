@@ -1,4 +1,4 @@
-# ArtBible
+# The Art Bible
 #### A useful guide around the creation and usage of art bibles for your own projects.
 ## About Author
 Guillem Álava Burgueño ([@WillyTrek19](https://github.com/WillyTrek19))
