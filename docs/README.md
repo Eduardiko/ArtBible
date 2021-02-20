@@ -9,7 +9,7 @@ Art bibles serve two main functions inside a project:
   - Tell about how the game will look like (and the reasons behind it)
   - Help the art department understand the art direction
   - Allow new members to be up to date with the team
-  - Marketing!
+  - **Marketing!**
 - Memory Aid
   - Reference to consult for details about the project
   - Maintain consistency through all the production process
@@ -20,11 +20,37 @@ Art bibles serve two main functions inside a project:
 However, it should not be used as the only tool given to artists to produce the game's art, but rather a quick reference guide used to show the main ideas and concepts artists should use to produce art; and the layout of more technical details such as camera placement or UI.
 
 # Market Study: Items commonly found inside Art Bibles
-Depending on the magnitude and level of depth of the art direction, the number of elements and the amount of detail dedicated to such may vary. However, in most documents, the pages to be found are:
-## Art Style
-This is **vital** for the understanding
 
-# Proposed Solution: Template for our project
+Depending on the magnitude and level of depth of the art direction, the number of elements and the amount of detail dedicated to such may vary. Here's some examples:
+
+![graph3](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph3.png)
+![graph4](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph4.png)
+
+However, in most documents, the pages to be found can be categorized in different parts:
+## Main points
+### Art Style
+This is _**vital**_ for the understanding of the game's most important feelings players should have while playing and what the main direction of the project will be focused on. It will define the game's main points that should be consistent around all its elements and how . This may include:
+- Graphic style:
+  - 2D/2.5D/3D
+  - Realistic
+  - Stylized
+  - Cartoon
+  - PixelArt
+- Time Period
+- Atmosphere
+  - Humoristic setting in a dark environment?
+  - Dark undertones in a seemingly peaceful place?
+  - A tragic retelling of a war?
+- Shapes
+- Materials & Textures
+
+The choices made here will determine how the game will look in the end,
+### Character Art
+Rather than considering
+
+
+
+# Proposed Solution: Template for our projects
 
 # Improvements / Innovations
 ## Advice on creating a good Art Bible
@@ -42,4 +68,5 @@ Some of the questions art directors ask themselves in order to create a good doc
       - [Slides](https://es.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art)
 3.  Bjurman, J. (2017) Communicating your artistic vision. Luleå University of Technology, Skellefteå. Retrieved from http://www.diva-portal.se/smash/get/diva2:1120383/FULLTEXT02.pdf
 4.  Silva, C., Monstert, D., Garcia, J., Sampaio, L., Galuppo, R. & Bradford, S. (29/11/2015) Headventures in the Underworld - Art Design Document V1.5. Retrieved from http://wiki.polycount.com/wiki/Art_Bible
-5.  Other art bibles, style guides and resources for reference: http://wiki.polycount.com/wiki/Art_Bible
+5.  Blouin, A. (2021) Art Direction. Retrieved from http://alanblouin.com/artcreative-direction/
+6.  Other art bibles, style guides and resources for reference: http://wiki.polycount.com/wiki/Art_Bible
