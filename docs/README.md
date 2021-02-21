@@ -23,13 +23,13 @@ However, it should not be used as the only tool given to artists to produce the 
 
 Depending on the magnitude and level of depth of the art direction, the number of elements and the amount of detail dedicated to such may vary. Here's some examples:
 
-![graph3](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph3.png)
-![graph4](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph4.png)
+![graph3](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph3.png?raw=true)
+![graph4](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph4.png?raw=true)
 
 However, in most documents, the pages to be found can be categorized in different parts:
 ## Main points
 ### Art Style
-This is _**vital**_ for the understanding of the game's most important feelings players should have while playing and what the main direction of the project will be focused on. It will define the game's main points that should be consistent around all its elements and how . This may include:
+This is _**vital**_ for the understanding of the game's most important feelings players should have while playing and what the main direction of the project will be focused on. It will define the game's artistic key points that should be consistent around all its elements. This may include:
 - Graphic style:
   - 2D/2.5D/3D
   - Realistic
@@ -38,13 +38,11 @@ This is _**vital**_ for the understanding of the game's most important feelings 
   - PixelArt
 - Time Period
 - Atmosphere
-  - Humoristic setting in a dark environment?
-  - Dark undertones in a seemingly peaceful place?
-  - A tragic retelling of a war?
 - Shapes
 - Materials & Textures
 
-The choices made here will determine how the game will look in the end,
+The choices made here will determine how the game will look in the end, so this is a good place to make the most important decisions about the game's art. Do you want to have a humoristic setting in a dark environment? Maybe dark undertones in a seemingly peaceful place? Perhaps a tragic retelling of a war? The choice is yours!
+![graph5](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph5.gif?raw=true)
 ### Character Art
 Rather than considering
 
