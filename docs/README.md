@@ -27,8 +27,7 @@ Depending on the magnitude and level of depth of the art direction, the number o
 ![graph4](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph4.png?raw=true)
 
 However, in most documents, the pages to be found can be categorized in different parts:
-## Main points
-### Art Style
+## Art Style
 This is _**vital**_ for the understanding of the game's most important feelings players should have while playing and what the main direction of the project will be focused on. It will define the game's artistic key points that should be consistent around all its elements. This may include:
 - Graphic style:
   - 2D/2.5D/3D
@@ -39,26 +38,50 @@ This is _**vital**_ for the understanding of the game's most important feelings 
 - Time Period
 - Atmosphere
 - Shapes
+- General Color Palettes
 - Materials & Textures
 
-The choices made here will determine how the game will look in the end, so this is a good place to make the most important decisions about the game's art. Do you want to have a humoristic setting in a dark environment? Maybe dark undertones in a seemingly peaceful place? Perhaps a tragic retelling of a war? The choice is yours!
+The choices made here will determine how the game will look in the end, so this is a good place to make the most important decisions about the game's art. If there's any fields that should be more defined, you can always dedicate a section to that item or define them better in the following items. Do you want to have a humoristic setting in a dark environment? Maybe dark undertones in a seemingly peaceful place? Perhaps a tragic retelling of a war? The choice is yours!
 
 ![graph5](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph5a.gif?raw=true)
 ![graph6](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph6.gif?raw=true)
-### Character Art
-Rather than considering the main characteristics
+## Character Art
+Firstly, rather than considering the particular characteristics of the main characters or villains, it's important to maintain consistency between the inhabitants of your game. Therefore, this section should begin by declaring the main model that all characters should follow, such as generalized sizes, proportions, gestures, expressions... with samples of characters inside the game (like common monsters or townfolk).
 
+![graph7](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph7.png?raw=true)
 
+Afterwards, based on these guides, it's when the more specific and detailed characters should be defined, like the protagonists, villains and other important NPCs.
 
-# Proposed Solution: Template for our projects
+![graph8](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph8.png?raw=true)
+## Environments & Locations
+Every game has to happen somewhere. This section has a similar structure to the character art. Firstly, define the most common places players will visit throughout the game, such as towns, ruins or caves. What structures will they find? How do they look like? What story do they tell visually? Conceptualize the main ideas of these environments like backgrounds, vegetation or terrains and give examples of important specifications. The more explanations given, the more detailed it'll be.
 
-# Improvements / Innovations
-## Advice on creating a good Art Bible
+![graph9](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph9.png?raw=true)
+## Items/Powerups
+If your game will have some sort of item, it should also be specified in the art bible. In the case of an RPG for example, things like weapons, armor, potions or key items should have some sort of consistency between them in terms of thematic and detail shown in the game. Start by making a general idea of the items players will use and, from there, give out some examples.
+
+![graph10](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph10.png?raw=true)
+## Camera
+Even though it may not sound like something an artist should be in charge of, camera control and the use of special techniques are crucial for visual storytelling (specially in 3D games). Will your game have a top-down view or is it going to be a side scroller? If there're battles, how will the camera behave in such? This is the place to define camera effects, fields of view, transitions, behaviours in cutscenes and how the characters should be seen in the screen.
+
+![graph11](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph11.gif?raw=true)
+![graph12](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph12.png?raw=true)
+## User Interface
+The presentation of information that the player will be interacting with throughout the game is also fairly important to ensure a good experience. How you will communicate visually to your user base can turn a suposedly an enjoyable time into an irritating chore, so stuff like menus, in-game interfaces, descriptions or dialogue boxes should have some sort of specification inside the bible. A good and easy way to showcase such is by creating wireframes of each interface players will interact with in your game.
+
+![graph13](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph13.png?raw=true)
+
+# Advice on creating a good Art Bible
+## Answer some key questions
 Some of the questions art directors ask themselves in order to create a good document could be:
 - Who is this document targeted to?
 - How can I convey the most important information efficiently for new members?
 - What may attract sponsors or producers?
 - What resources can I use to make all artists understand and share the same visual intents?
+
+# Proposed Solution: Template for our projects
+
+# Improvements/Innovations
 
 # References
 1.  Nacke, L. (13/01/15) Communication and Game Design. Retreived from [https://www.gamecareerguide.com/features/1376/communication_and_game_design_documents.php](https://www.gamecareerguide.com/features/1376/communication_and_game_design_documents.php)
