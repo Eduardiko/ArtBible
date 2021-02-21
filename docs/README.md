@@ -67,11 +67,25 @@ Even though it may not sound like something an artist should be in charge of, ca
 ![graph11](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph11.gif?raw=true)
 ![graph12](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph12.png?raw=true)
 ## User Interface
-The presentation of information that the player will be interacting with throughout the game is also fairly important to ensure a good experience. How you will communicate visually to your user base can turn a suposedly an enjoyable time into an irritating chore, so stuff like menus, in-game interfaces, descriptions or dialogue boxes should have some sort of specification inside the bible. A good and easy way to showcase such is by creating wireframes of each interface players will interact with in your game.
+The presentation of information that the player will be interacting with throughout the game is also fairly important to ensure a good experience. How you will communicate visually to your user base can turn a suposedly an enjoyable time into an irritating chore, so stuff like fonts, menus, in-game interfaces, descriptions or dialogue boxes should have some sort of specification inside the bible. A good and easy way to showcase such is by creating wireframes of each interface players will interact with in your game.
 
 ![graph13](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph13.png?raw=true)
+## Technical Guidelines
+Finally, something that isn't considered This refers to the specifications related with exporting formats, image sizes, limitations, naming conventions, tool used, file structure inside the project and so on. Art directors should control these factors to optimize projects and organize all the files involved in the project to be easy to locate for programmers.
+
+![graph14](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph14.png?raw=true)
 
 # Advice on creating a good Art Bible
+## General tips
+- **Avoid large blocks of text**. Directors don't want their artists to have to read through a large amount of text when what they need is a quick image to compare to. Instead, put short captions to the images showcased
+- **Use formats preferred by the team**. Accomodate to the needs the team and the project really have.
+- **Be open to feedback and keep updating**. You never know where a good inspiration may come from. Share thoughts and ask for opinions.
+- **Source the content of the bible**. If there's more need for references that don't fit the document, allow artists to consult the sources of the references themselves.
+
+## Moodboards & References
+In case you're not the most avid artist and can't give more than one example, get as many references and images from any media possible (films, other videogames, ads, comics, books, photographs) to encapsulate the idea you want to transmit. If there's a need to create a table for each of the elements listed above, do so. The more references an artist can see, the better the message you want to transmit will arrive to them.
+
+![graph15](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph15.png?raw=true)
 ## Answer some key questions
 Some of the questions art directors ask themselves in order to create a good document could be:
 - Who is this document targeted to?
