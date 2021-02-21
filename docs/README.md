@@ -43,7 +43,7 @@ This is _**vital**_ for the understanding of the game's most important feelings 
 
 The choices made here will determine how the game will look in the end, so this is a good place to make the most important decisions about the game's art. Do you want to have a humoristic setting in a dark environment? Maybe dark undertones in a seemingly peaceful place? Perhaps a tragic retelling of a war? The choice is yours!
 
-![graph5](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph5.gif?raw=true)
+![graph5](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph5a.gif?raw=true)
 ![graph6](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph6.gif?raw=true)
 ### Character Art
 Rather than considering the main characteristics
