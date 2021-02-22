@@ -42,6 +42,7 @@ This is _**vital**_ for the understanding of the game's most important feelings 
 - Shapes
 - General Color Palettes
 - Materials & Textures
+- References
 
 The choices made here will determine how the game will look in the end, so this is a good place to make the most important decisions about the game's art. If there's any fields that should be more defined, you can always dedicate a section to that item or define them better in the following items. Do you want to have a humoristic setting in a dark environment? Maybe dark undertones in a seemingly peaceful place? Perhaps a tragic retelling of a war? The choice is yours!
 
