@@ -73,7 +73,7 @@ The presentation of information that the player will be interacting with through
 
 ![graph13](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph13.png?raw=true)
 ## Technical Guidelines
-Finally, something that isn't considered This refers to the specifications related with exporting formats, image sizes, limitations, naming conventions, tool used, file structure inside the project and so on. Art directors should control these factors to optimize projects and organize all the files involved in the project to be easy to locate for programmers.
+Finally, something that isn't given much importance by some; but is actually a pretty important part of the document. This refers to the specifications related with exporting formats, image sizes, limitations, naming conventions, tool used, file structure inside the project and so on. Art directors should control these factors to optimize projects and organize all the files involved in the project to be easy to locate for programmers.
 
 ![graph14](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph14.png?raw=true)
 
