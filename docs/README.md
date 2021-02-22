@@ -1,3 +1,6 @@
+# The Art Bible: A useful guide around the creation and usage of art bibles for your own projects.
+This project was created by Guillem Álava Burgueño ([@WillyTrek19](https://github.com/WillyTrek19)) for the Project II subject in the Bachelor's degree in Video Game Design and Development, under the supervision of Ramon Santamaría ([@raysan5](https://github.com/raysan5))
+
 # Introduction: What are they?
 The Art Bible (or Style Guide) are one of the many game design documents useful for game designers to convey and communicate their ideas to the members of the team. It's a communication tool used as a reference document or guideline created on the early phases of a project (shortly after the GDD) by the art director, the one who knows the details of what the game is going to look and feel from an artistic point of view and has a clear vision of the game's visuals.
 
