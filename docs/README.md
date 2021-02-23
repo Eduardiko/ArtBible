@@ -102,7 +102,7 @@ Some of the questions art directors ask themselves in order to create a good doc
 
 Here's a display of a sample template I created for Project II. If it is not shown, download it by clicking [here](https://github.com/WillyTrek19/ArtBible/blob/main/templates/ArtBible.pdf?raw=true)
 
-<a href="https://github.com/WillyTrek19/ArtBible/blob/main/templates/ArtBible.pdf" target="_blank">PDF.</a>
+<a href="./templates/ArtBible.pdf" target="_blank">PDF.</a>
 
 # Improvements, innovations & comments
 
