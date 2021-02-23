@@ -58,7 +58,7 @@ Afterwards, based on these guides, it's when the more specific and detailed char
 
 ![graph8](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph8.png?raw=true)
 ## Environments & Locations
-Every game has to happen somewhere. This section has a similar structure to the character art. Firstly, define the most common places players will visit throughout the game, such as towns, ruins or caves. What structures will they find? How do they look like? What story do they tell visually? Conceptualize the main ideas of these environments like backgrounds, vegetation or terrains and give examples of important specifications. The more explanations given, the more detailed it'll be.
+Every game has to happen somewhere. This section has a similar structure to the character art. Firstly, define the most common places players will visit throughout the game, such as towns, ruins or caves. What structures will they find? How do they look like? What story do they tell visually? Conceptualize the main ideas of these environments like backgrounds, vegetation or terrains for the production to be more modular and give examples of important specifications. The more explanations given, the more detailed it'll be.
 
 ![graph9](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph9.png?raw=true)
 ## Items/Powerups
