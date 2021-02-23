@@ -105,6 +105,10 @@ Here's a display of a sample template I created for Project II. If it is not sho
 
 # Improvements, innovations & comments
 
+- **Every project is unique**. While the template created is a good point to start, it is by no means meant to be the mandatory way to do so. Adapt the bible to your project's needs.
+- **Get creative!** Remember that this is one of the best GDD to showcase a sponsor or publisher to present your game. Fonts, color choices, page backgrounds... Make them pretty!
+- **Show rather than tell**. On exception of backstories and descriptions, be as schematic as possible in all items possibles. If there's a need to include a moodboard for each item, do so, rather than trying to explain with huge texts.
+
 # References
 1.  Nacke, L. (13/01/15) Communication and Game Design. Retreived from [https://www.gamecareerguide.com/features/1376/communication_and_game_design_documents.php](https://www.gamecareerguide.com/features/1376/communication_and_game_design_documents.php)
 2.  Telang, K. (19/02/14) NGDC 2013: Game Art Bible -- The secret sauce to making great Game Art. NASSCOM Game Developers Conference, India. Retrieved from various URLs:
