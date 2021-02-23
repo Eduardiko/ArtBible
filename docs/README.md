@@ -100,7 +100,7 @@ Some of the questions art directors ask themselves in order to create a good doc
 
 # Proposed Solution: Template for our projects
 
-<iframe src="templates/ArtBible.pdf" width="100%" height="850px">
+<iframe src="https://github.com/WillyTrek19/ArtBible/blob/main/templates/ArtBible.pdf" width="100%" height="850px">
   </iframe>
 
 # Improvements, innovations & comments
