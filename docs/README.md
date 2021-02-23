@@ -37,6 +37,7 @@ This is _**vital**_ for the understanding of the game's most important feelings 
   - Stylized
   - Cartoon
   - PixelArt
+- Main Camera
 - Time Period
 - Atmosphere
 - Shapes
@@ -61,11 +62,11 @@ Every game has to happen somewhere. This section has a similar structure to the 
 
 ![graph9](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph9.png?raw=true)
 ## Items/Powerups
-If your game will have some sort of item, it should also be specified in the art bible. In the case of an RPG for example, things like weapons, armor, potions or key items should have some sort of consistency between them in terms of thematic and detail shown in the game. Start by making a general idea of the items players will use and, from there, give out some examples.
+If your game will have some sort of item, it should also be specified in the art bible. In the case of an RPG for example, things like weapons, armor, potions or key items should have some sort of consistency between them in terms of thematic and detail shown in the game. Start by making a general idea of the items players will use and, from there, give out some examples. This is also a good place to explain visual effects associated with them (Such as slashing or magic attacks).
 
 ![graph10](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph10.png?raw=true)
 ## Camera
-Even though it may not sound like something an artist should be in charge of, camera control and the use of special techniques are crucial for visual storytelling (specially in 3D games). Will your game have a top-down view or is it going to be a side scroller? If there're battles, how will the camera behave in such? This is the place to define camera effects, fields of view, transitions, behaviours in cutscenes and how the characters should be seen in the screen.
+Even though it may not sound like something an artist should be in charge of, camera control and the use of special techniques are crucial for visual storytelling (specially in 3D games). Will your game have a top-down view or is it going to be a side scroller? If there're battles, how will the camera behave in such? If your game requires it, this is the place to define camera effects, fields of view, transitions, behaviours in cutscenes and how the characters should be seen in the screen.
 
 ![graph11](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph11.gif?raw=true)
 ![graph12](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph12.png?raw=true)
@@ -84,6 +85,7 @@ Finally, something that isn't given much importance by some; but is actually a p
 - **Use formats preferred by the team**. Accomodate to the needs the team and the project really have.
 - **Be open to feedback and keep updating**. You never know where a good inspiration may come from. Share thoughts and ask for opinions.
 - **Source the content of the bible**. If there's more need for references that don't fit the document, allow artists to consult the sources of the references themselves.
+- **Mind the resources and time limitations.** Sometimes, less is more. If the team has a tight schedule or doesn't have enough expertise, it's preferable to put on some limitations and work creativity from there (for example, by limiting the color palettes and shape usage).
 
 ## Moodboards & References
 In case you're not the most avid artist and can't give more than one example, get as many references and images from any media possible (films, other videogames, ads, comics, books, photographs) to encapsulate the idea you want to transmit. If there's a need to create a table for each of the elements listed above, do so. The more references an artist can see, the better the message you want to transmit will arrive to them.
@@ -98,7 +100,7 @@ Some of the questions art directors ask themselves in order to create a good doc
 
 # Proposed Solution: Template for our projects
 
-# Improvements/Innovations
+# Improvements, innovations & comments
 
 # References
 1.  Nacke, L. (13/01/15) Communication and Game Design. Retreived from [https://www.gamecareerguide.com/features/1376/communication_and_game_design_documents.php](https://www.gamecareerguide.com/features/1376/communication_and_game_design_documents.php)
