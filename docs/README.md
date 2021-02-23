@@ -111,12 +111,12 @@ Here's a display of a sample template I created for Project II. If it is not sho
 - **Show rather than tell**. On exception of backstories and descriptions, be as schematic as possible in all items possibles. If there's a need to include a moodboard for each item, do so, rather than trying to explain with huge texts.
 
 # References
-1.  Nacke, L. (13/01/15) Communication and Game Design. Retreived from [https://www.gamecareerguide.com/features/1376/communication_and_game_design_documents.php](https://www.gamecareerguide.com/features/1376/communication_and_game_design_documents.php)
+1.  Nacke, L. (13/01/15) Communication and Game Design. Retreived from https://www.gamecareerguide.com/features/1376/communication_and_game_design_documents.php
 2.  Telang, K. (19/02/14) NGDC 2013: Game Art Bible -- The secret sauce to making great Game Art. NASSCOM Game Developers Conference, India. Retrieved from various URLs:
-      - [Video Part 1](https://www.youtube.com/watch?v=vuXxfnCM56A)
-      - [Video Part 2](https://www.youtube.com/watch?v=YaDIbe2GeCY)
-      - [Slides](https://es.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art)
-3.  Bjurman, J. (2017) Communicating your artistic vision. Luleå University of Technology, Skellefteå. Retrieved from [http://www.diva-portal.se/smash/get/diva2:1120383/FULLTEXT02.pdf](http://www.diva-portal.se/smash/get/diva2:1120383/FULLTEXT02.pdf)
-4.  Silva, C., Monstert, D., Garcia, J., Sampaio, L., Galuppo, R. & Bradford, S. (29/11/2015) Headventures in the Underworld - Art Design Document V1.5. Retrieved from [https://static1.squarespace.com/static/53360d02e4b0ee18bbb5fe99/t/5705482227d4bda9559a29ce/1459963950485/ArtBible_HeadventureTeam.pdf](https://static1.squarespace.com/static/53360d02e4b0ee18bbb5fe99/t/5705482227d4bda9559a29ce/1459963950485/ArtBible_HeadventureTeam.pdf)
-5.  Blouin, A. (2021) Art Direction. Retrieved from [http://alanblouin.com/artcreative-direction/](http://alanblouin.com/artcreative-direction/)
-6.  Other art bibles, style guides and resources for reference: [http://wiki.polycount.com/wiki/Art_Bible](http://wiki.polycount.com/wiki/Art_Bible)
+      - Video Part 1: https://www.youtube.com/watch?v=vuXxfnCM56A
+      - Video Part 2: https://www.youtube.com/watch?v=YaDIbe2GeCY
+      - Slides: https://es.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art
+3.  Bjurman, J. (2017) Communicating your artistic vision. Luleå University of Technology, Skellefteå. Retrieved from http://www.diva-portal.se/smash/get/diva2:1120383/FULLTEXT02.pdf
+4.  Silva, C., Monstert, D., Garcia, J., Sampaio, L., Galuppo, R. & Bradford, S. (29/11/2015) Headventures in the Underworld - Art Design Document V1.5. Retrieved from https://static1.squarespace.com/static/53360d02e4b0ee18bbb5fe99/t/5705482227d4bda9559a29ce/1459963950485/ArtBible_HeadventureTeam.pdf
+5.  Blouin, A. (2021) Art Direction. Retrieved from http://alanblouin.com/artcreative-direction/
+6.  Other art bibles, style guides and resources for reference: http://wiki.polycount.com/wiki/Art_Bible
