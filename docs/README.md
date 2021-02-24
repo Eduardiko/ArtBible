@@ -86,17 +86,16 @@ Finally, something that isn't given much importance by some; but is actually a p
 - **Be open to feedback and keep updating**. You never know where a good inspiration may come from. Share thoughts and ask for opinions.
 - **Source the content of the bible**. If there's more need for references that don't fit the document, allow artists to consult the sources of the references themselves.
 - **Mind the resources and time limitations.** Sometimes, less is more. If the team has a tight schedule or doesn't have enough expertise, it's preferable to put on some limitations and work creativity from there (for example, by limiting the color palettes and shape usage).
+- **Answer some key questions**. Some of the questions art directors ask themselves in order to create a good document could be:
+  - Who is this document targeted to?
+  - How can I convey the most important information efficiently for new members?
+  - What may attract sponsors or producers?
+  - What resources can I use to make all artists understand and share the same visual intents?
 
 ## Moodboards & References
 In case you're not the most avid artist and can't give more than one example, get as many references and images from any media possible (films, other videogames, ads, comics, books, photographs) to encapsulate the idea you want to transmit. If there's a need to create a table for each of the elements listed above, do so. The more references an artist can see, the better the message you want to transmit will arrive to them.
 
 ![graph15](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph15.png?raw=true)
-## Answer some key questions
-Some of the questions art directors ask themselves in order to create a good document could be:
-- Who is this document targeted to?
-- How can I convey the most important information efficiently for new members?
-- What may attract sponsors or producers?
-- What resources can I use to make all artists understand and share the same visual intents?
 
 # Proposed Solution: Template for our projects
 
