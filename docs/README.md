@@ -106,7 +106,7 @@ Here's a display of a sample template I created for Project II. If it is not sho
 
 # Improvements, innovations & comments
 
-- **Every project is unique**. While the template created is a good point to start, it is by no means meant to be the mandatory way to do so. Adapt the bible to your project's needs.
+- **Every project is unique**. While the template created is a good point to start, it is by no means meant to be the mandatory way to do so. Start by lining up all the elements needed to be showcased in a simple document and adapt the bible to your project's needs.
 - **Get creative!** Remember that this is one of the best GDD to showcase a sponsor or publisher to present your game. Fonts, color choices, page backgrounds... Make them pretty!
 - **Show rather than tell**. On exception of backstories and descriptions, be as schematic as possible in all items possibles. If there's a need to include a moodboard for each item, do so, rather than trying to explain with huge texts.
 
