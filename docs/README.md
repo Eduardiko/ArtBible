@@ -5,6 +5,8 @@ The Art Bible (or Style Guide) is one of the many game design documents useful f
 
 ![graph2](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph2.gif?raw=true)
 
+However, it should not be used as the only tool given to artists to produce the game's art, but rather a quick reference guide used to show the main ideas and concepts artists should use to produce art; and the layout of more technical details such as camera placement or UI.
+
 ## Main Usage:
 Art bibles serve two main functions inside a project:
 - Communication
@@ -18,8 +20,6 @@ Art bibles serve two main functions inside a project:
   - Keep cohesion between all the members
 
 ![graph1](https://github.com/WillyTrek19/ArtBible/blob/main/docs/images/graph1.png?raw=true)
-
-However, it should not be used as the only tool given to artists to produce the game's art, but rather a quick reference guide used to show the main ideas and concepts artists should use to produce art; and the layout of more technical details such as camera placement or UI.
 
 # Market Study: Items commonly found inside Art Bibles
 
