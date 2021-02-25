@@ -109,7 +109,10 @@ Here's a display of a sample template I created for Project II. If it is not sho
 - **Get creative!** Remember that this is one of the best GDD to showcase a sponsor or publisher to present your game. Fonts, color choices, page backgrounds... Make them pretty!
 - **Show rather than tell**. On exception of backstories and descriptions, be as schematic as possible in all items possibles. If there's a need to include a moodboard for each item, do so, rather than trying to explain with huge texts.
 
-# References
+# Slides
+[Here](https://docs.google.com/presentation/d/1xL5rleyuq89-GP7IA32CEnhjq8ilZt8hanZynrp40Mg/edit?usp=sharing) are the slides used in the class presentation.
+
+References
 1.  Nacke, L. (13/01/15) Communication and Game Design. Retreived from https://www.gamecareerguide.com/features/1376/communication_and_game_design_documents.php
 2.  Telang, K. (19/02/14) NGDC 2013: Game Art Bible -- The secret sauce to making great Game Art. NASSCOM Game Developers Conference, India. Retrieved from various URLs:
       - Video Part 1: https://www.youtube.com/watch?v=vuXxfnCM56A
